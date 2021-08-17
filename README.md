@@ -43,10 +43,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!-- TODO-IST:END -->
 
 
+<!--
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wzc570738205&show_icons=true&theme=gotham" alt="wzc570738205" />
 
-
+-->
 
 
