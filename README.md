@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wzc570738205.wzc570738205)
 
-<br />
+
 
 
 hi, i'm Wang zhi chao, a passionate self-taught full stack web developer and a software engineer from china. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
