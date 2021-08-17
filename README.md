@@ -18,7 +18,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=xrG8pf-z9vH3-4a3t_ilqas" style="text-decoration:none;">email</a> :)
 - 💬 ask me about anything, i am happy to help;
-- 🔍 find me with<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=55bQp1O" style="text-decoration:none;">QQ</a>;
+- 🔍 find me with <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=55bQp1O" style="text-decoration:none;">QQ</a>;
 
 **languages and tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -30,8 +30,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://gitee.com/Wzhichao/img/raw/master/uPic/MTetIk29%20.jpg"></code>
+<code><img height="30" src="https://gitee.com/Wzhichao/img/raw/master/uPic/xNUCRE58%20.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://gitee.com/Wzhichao/img/raw/master/uPic/4LNcwR12%20.png"></code>
