@@ -9,7 +9,7 @@
 <br />
 
 
-hi, i'm [Wang zhi chao](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Wang zhi chao, a passionate self-taught full stack web developer and a software engineer from china. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -18,6 +18,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=xrG8pf-z9vH3-4a3t_ilqas" style="text-decoration:none;">email</a> :)
 - 💬 ask me about anything, i am happy to help;
+- 🔍 find me with<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=55bQp1O" style="text-decoration:none;">QQ</a>;
 
 **languages and tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
