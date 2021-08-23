@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="30" src="https://gitee.com/Wzhichao/img/raw/master/uPic/47EXCZ04%20.jpg"></code>
 
 🚧 **my todoist stats:**
-<!-- TODO-IST:START 
+<!-- TODO-IST:START -->
 🏆  7,936 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 663 tasks so far           
