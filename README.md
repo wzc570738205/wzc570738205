@@ -2,7 +2,7 @@
 <a href="https://segmentfault.com/u/wangzc996" traget='_blank'>
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://avatar-static.segmentfault.com/115/426/1154267036-5de60e2b2d436_huge256" />
 </a>
-<a href="https://wangzc.wang/tools/" traget='_blank'>
+<a href="https://wangzc.wang" traget='_blank'>
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://wangzc.wang/tools/logo.png" />
 </a>
 
